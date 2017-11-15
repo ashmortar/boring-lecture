@@ -1,0 +1,21 @@
+h2.intro {
+  color: darkgrey;
+  text-align: center;
+}
+p{
+  background-color: #ccba80;
+  font-family: monospace;
+}
+
+body{
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+p.intro {
+  background-color: darkgray;
+}
+
+img.intro {
+  float: left;
+}
