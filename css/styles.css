@@ -1,6 +1,15 @@
-h2.intro {
+h2{
   color: darkgrey;
   text-align: center;
+}
+
+.intro {
+  background-color: gold;
+ color: white;
+}
+
+img {
+  float:left;
 }
 p{
   background-color: #ccba80;
@@ -10,12 +19,4 @@ p{
 body{
   margin-left: 30%;
   margin-right: 30%;
-}
-
-p.intro {
-  background-color: darkgray;
-}
-
-img.intro {
-  float: left;
 }
